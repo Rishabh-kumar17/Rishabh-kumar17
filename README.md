@@ -39,12 +39,6 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-kumar17&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 🧑‍💼 Internship Focus
 ✔️ Strong fundamentals  
@@ -55,7 +49,7 @@
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: https://linkedin.com  
-- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rishabh-kumar-113355329/ 
+- 📧 Email: rishabhkumar27145@gmail.com  
 
 ⭐ *Open to internship opportunities & collaborations*
